@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Alexis%20Piracoca&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20%7C%20Video%20Games&descAlignY=56&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Alexis%20Piracoca&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20%7C%20Video%20Games%20%7C%20Data%20Science&descAlignY=56&descSize=16" width="100%" />
 
 <a href="https://github.com/AlexisPiracoca">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Alexis;Engineer+%26+Builder;Full-Stack+%7C+Mobile+%7C+Game+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Alexis;Engineer+%26+Builder;Full-Stack+%7C+Mobile+%7C+Game+Dev;Data+Science+%7C+Analytics+%7C+Visualization" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
-Engineer passionate about <b>full-stack development</b>, <b>video games</b>, and <b>mobile applications</b>.
+Engineer passionate about <b>full-stack development</b>, <b>video games</b>, <b>mobile applications</b>, and <b>data science</b>.
 </p>
 
 </div>
@@ -61,6 +61,16 @@ Engineer passionate about <b>full-stack development</b>, <b>video games</b>, and
     <td align="center" width="50%">
       <b>Tools &amp; Frameworks</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,django,laravel,linux,dotnet" alt="Tools and Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Data Science &amp; Machine Learning</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,scikitlearn,opencv" alt="Data Science and Machine Learning" />
+    </td>
+    <td align="center" width="50%">
+      <b>Data Analysis &amp; Visualization</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=r,julia,matlab,octave,d3,grafana" alt="Data Analysis and Visualization" />
     </td>
   </tr>
 </table>
