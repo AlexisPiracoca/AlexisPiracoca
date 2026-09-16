@@ -71,14 +71,6 @@ Engineer passionate about <b>full-stack development</b>, <b>video games</b>, and
 
 <div align="center">
 
-## Connect with me
-
-<a href="https://github.com/AlexisPiracoca" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-AlexisPiracoca-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%" />
 
 </div>
