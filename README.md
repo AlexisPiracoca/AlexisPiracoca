@@ -20,58 +20,118 @@ Engineer passionate about <b>full-stack development</b>, <b>video games</b>, <b>
 
 ## Technologies & Tools
 
-<br/>
+### Programming Languages
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Programming Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,java,cs,dart,js,php" alt="Programming Languages" />
-    </td>
-    <td align="center" width="50%">
-      <b>Frontend Development</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend Development" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C Sharp" /><br/><sub><b>C#</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" /><br/><sub><b>Dart</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
   </tr>
+</table>
+
+### Frontend Development
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <b>Backend Development</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,nginx" alt="Backend Development" />
-    </td>
-    <td align="center" width="50%">
-      <b>Mobile Development</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=kotlin,flutter,react" alt="Mobile Development" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /><br/><sub><b>Tailwind CSS</b></sub></td>
   </tr>
+</table>
+
+### Backend Development
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
-    </td>
-    <td align="center" width="50%">
-      <b>Game Engines</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /><br/><sub><b>Spring</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /><br/><sub><b>Firebase</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" /><br/><sub><b>Nginx</b></sub></td>
   </tr>
+</table>
+
+### Mobile Development
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <b>Cloud &amp; DevOps</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" alt="Cloud and DevOps" />
-    </td>
-    <td align="center" width="50%">
-      <b>Tools &amp; Frameworks</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,django,laravel,linux,dotnet" alt="Tools and Frameworks" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /><br/><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" /><br/><sub><b>Flutter</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /><br/><sub><b>React</b></sub></td>
   </tr>
+</table>
+
+### Databases
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <b>Data Science &amp; Machine Learning</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,scikitlearn,opencv" alt="Data Science and Machine Learning" />
-    </td>
-    <td align="center" width="50%">
-      <b>Data Analysis &amp; Visualization</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=r,julia,matlab,octave,d3,grafana" alt="Data Analysis and Visualization" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+  </tr>
+</table>
+
+### Game Engines
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" /><br/><sub><b>Unity</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" /><br/><sub><b>Unreal Engine</b></sub></td>
+  </tr>
+</table>
+
+### Cloud &amp; DevOps
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" /><br/><sub><b>Azure</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" /><br/><sub><b>Google Cloud</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+  </tr>
+</table>
+
+### Tools &amp; Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /><br/><sub><b>Django</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /><br/><sub><b>Laravel</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" /><br/><sub><b>.NET</b></sub></td>
+  </tr>
+</table>
+
+### Data Science &amp; Machine Learning
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /><br/><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" /><br/><sub><b>pandas</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" /><br/><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face" /><br/><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" /><br/><sub><b>Apache Spark</b></sub></td>
+  </tr>
+</table>
+
+### Data Analysis &amp; Visualization
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI" /><br/><sub><b>Power BI</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" /><br/><sub><b>Tableau</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" /><br/><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" /><br/><sub><b>Plotly</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" /><br/><sub><b>Streamlit</b></sub></td>
   </tr>
 </table>
 
